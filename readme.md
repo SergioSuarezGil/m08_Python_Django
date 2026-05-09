@@ -8,7 +8,7 @@ Python-Django Module - Keepcoding 2019
 
 ### Clone this repo:
 
-`git clone https://github.com/SergioSuarezDev/m08_Python_Django.git`
+`git clone https://github.com/SergioSuarezGil/m08_Python_Django.git`
 
 ### Setup enviroment
 
